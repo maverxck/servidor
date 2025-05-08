@@ -873,3 +873,19 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [08May2025 04:42:38.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=69, z=-6}
 [08May2025 04:42:49.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Heartt777 lost connection: Disconnected
 [08May2025 04:42:49.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 left the game
+[08May2025 04:43:21.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Would you Like to Know More?]
+[08May2025 04:43:21.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Heartt777[/127.134.141.51:60197] logged in with entity id 3350 at (-0.5505194060989721, 67.0, 19.026914825087957)
+[08May2025 04:43:21.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 joined the game
+[08May2025 04:43:43.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=66, z=25} BlockPos{x=-6, y=69, z=10}
+[08May2025 04:43:43.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=66, z=25} BlockPos{x=-6, y=70, z=8}
+[08May2025 04:43:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[08May2025 04:43:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... hearttop heartt777<--[HERE]
+[08May2025 04:44:14.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Heartt777 a server operator
+[08May2025 04:44:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
+[08May2025 04:45:06.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Sweet Dreams]
+[08May2025 04:45:12.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Sweet Dreams]
+[08May2025 04:46:06.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Alex's Mobs]
+[08May2025 04:47:51.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maverxck23 lost connection: Disconnected
+[08May2025 04:47:51.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 left the game
+[08May2025 04:47:57.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Heartt777 lost connection: Disconnected
+[08May2025 04:47:57.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 left the game
