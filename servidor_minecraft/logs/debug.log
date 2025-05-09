@@ -8047,3 +8047,11 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [09May2025 22:59:39.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09May2025 22:59:39.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09May2025 23:01:41.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[09May2025 23:04:04.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Ice Bucket Challenge]
+[09May2025 23:04:39.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 23:04:39.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 23:09:39.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 23:09:39.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 23:11:26.682] [Server thread/DEBUG] [mixin/]: Mixing WearableArtifactCurioMixin from rarcompat.mixins.json into artifacts.forge.curio.WearableArtifactCurio
+[09May2025 23:11:26.682] [Server thread/DEBUG] [mixin/]: rarcompat.mixins.json:WearableArtifactCurioMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[09May2025 23:11:35.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Good Demoman]
