@@ -194,3 +194,11 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [09May2025 23:01:41.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [09May2025 23:04:04.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Ice Bucket Challenge]
 [09May2025 23:11:35.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Good Demoman]
+[09May2025 23:14:48.806] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=243, y=-39, z=341}
+[09May2025 23:15:28.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=204, y=64, z=342} BlockPos{x=204, y=62, z=343}
+[09May2025 23:15:28.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=204, y=64, z=342} BlockPos{x=204, y=62, z=343}
+[09May2025 23:16:16.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Cosmic Discoverer]
+[09May2025 23:18:27.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Who You Gonna Call?]
+[09May2025 23:19:58.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [The Lighthouse]
+[09May2025 23:24:06.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Crystal Pioneer]
+[09May2025 23:28:26.871] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
