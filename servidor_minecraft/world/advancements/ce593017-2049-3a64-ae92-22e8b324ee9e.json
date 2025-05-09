@@ -56,9 +56,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-08 04:34:42 +0000",
+      "minecraft:birch_forest": "2025-05-09 23:42:47 +0000",
       "minecraft:river": "2025-05-08 04:42:09 +0000",
       "minecraft:dripstone_caves": "2025-05-08 05:49:09 +0000",
+      "minecraft:swamp": "2025-05-09 23:42:11 +0000",
       "minecraft:forest": "2025-05-08 04:39:06 +0000",
+      "minecraft:windswept_forest": "2025-05-09 23:40:06 +0000",
       "minecraft:plains": "2025-05-09 23:14:59 +0000"
     },
     "done": false
@@ -2264,6 +2267,7 @@
       "minecraft:piglin_brute": "2025-05-08 06:19:07 +0000",
       "minecraft:creeper": "2025-05-08 05:58:08 +0000",
       "minecraft:zombie": "2025-05-08 05:49:02 +0000",
+      "minecraft:drowned": "2025-05-09 23:48:29 +0000",
       "minecraft:zombie_villager": "2025-05-09 23:26:04 +0000"
     },
     "done": false
@@ -3996,6 +4000,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-09 23:41:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-05-09 23:20:08 +0000"
@@ -4209,6 +4219,12 @@
   "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-09 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 23:40:58 +0000"
     },
     "done": true
   },
