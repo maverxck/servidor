@@ -4931,6 +4931,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-10 02:28:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-10 01:10:12 +0000"
@@ -5741,6 +5747,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-10 02:28:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-05-10 02:01:38 +0000"
@@ -5834,6 +5846,12 @@
   "l2complements:recipes/misc/vanilla/upgrade/diamond_boots": {
     "criteria": {
       "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-05-10 02:34:05 +0000"
     },
     "done": true
   },
@@ -6038,6 +6056,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/diamond_battle_axe": {
     "criteria": {
       "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-10 02:28:45 +0000"
     },
     "done": true
   },
@@ -6278,6 +6302,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-10 02:28:45 +0000"
     },
     "done": true
   },

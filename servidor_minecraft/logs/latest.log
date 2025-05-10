@@ -43,3 +43,19 @@
 [10May2025 01:36:29.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36652, l='ServerLevel[world]', x=145.31, y=-8.00, z=53.41] died: Foundry Guardian was slain by Maverxck23
 [10May2025 01:36:37.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36651, l='ServerLevel[world]', x=141.75, y=-8.00, z=49.49] died: Foundry Guardian was slain by Maverxck23
 [10May2025 02:14:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Hot Stuff]
+[10May2025 02:27:20.421] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10May2025 02:29:44.556] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[10May2025 02:29:44.556] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[10May2025 02:29:44.557] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[10May2025 02:29:44.557] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[10May2025 02:29:44.557] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[10May2025 02:29:44.562] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[10May2025 02:29:44.562] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[10May2025 02:29:44.562] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[10May2025 02:29:44.562] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[10May2025 02:29:44.562] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[10May2025 02:29:44.562] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[10May2025 02:29:54.038] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[10May2025 02:29:54.038] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[10May2025 02:32:18.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10May2025 02:35:47.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
