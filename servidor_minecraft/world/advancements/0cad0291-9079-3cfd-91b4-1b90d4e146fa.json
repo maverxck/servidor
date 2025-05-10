@@ -929,6 +929,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-10 18:50:05 +0000",
       "minecraft:spider": "2025-05-08 05:50:10 +0000",
       "minecraft:wither_skeleton": "2025-05-10 18:47:54 +0000",
       "minecraft:husk": "2025-05-08 05:22:06 +0000",
@@ -4770,6 +4771,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-10 18:50:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-10 18:30:26 +0000"
@@ -4791,6 +4798,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-05-10 18:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-10 18:50:07 +0000"
     },
     "done": true
   },
