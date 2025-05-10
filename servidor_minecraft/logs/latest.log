@@ -211,3 +211,5 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 04:35:58.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 joined the game
 [10May2025 04:36:23.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
 [10May2025 04:38:56.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Cover Me with Diamonds]
+[10May2025 04:46:48.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10May2025 04:48:57.960] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

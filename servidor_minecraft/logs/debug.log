@@ -8317,3 +8317,9 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 04:35:58.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 joined the game
 [10May2025 04:36:23.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
 [10May2025 04:38:56.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Cover Me with Diamonds]
+[10May2025 04:39:25.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 04:39:25.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:44:25.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 04:44:25.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:46:48.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10May2025 04:48:57.960] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
