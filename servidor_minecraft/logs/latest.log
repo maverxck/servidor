@@ -1,1 +1,4 @@
 [10May2025 00:07:49.613] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=91, y=4, z=-282}
+[10May2025 00:15:10.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Bone Crusher]
+[10May2025 00:15:33.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Diamonds!]
+[10May2025 00:17:56.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
