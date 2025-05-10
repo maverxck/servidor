@@ -3959,6 +3959,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-05-10 02:06:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-05-09 23:20:08 +0000"
@@ -3974,6 +3980,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-10 00:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2025-05-10 02:06:03 +0000"
     },
     "done": true
   },
@@ -4034,6 +4046,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/diamond_throwing_axe": {
     "criteria": {
       "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2025-05-10 02:06:03 +0000"
     },
     "done": true
   },
@@ -4577,6 +4595,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-10 02:14:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-10 00:05:32 +0000"
@@ -4844,6 +4868,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-09 23:20:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-05-10 02:06:03 +0000"
     },
     "done": true
   },
@@ -5231,6 +5261,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-10 02:05:57 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
     "criteria": {
       "has_gold_block": "2025-05-10 00:38:29 +0000"
@@ -5438,6 +5474,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-10 00:06:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-10 02:05:57 +0000"
     },
     "done": true
   },
@@ -5681,6 +5723,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-05-10 02:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-10 00:15:33 +0000"
@@ -5789,6 +5837,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-05-10 02:06:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-05-09 23:17:10 +0000"
@@ -5840,6 +5894,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-09 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-05-10 02:06:03 +0000"
     },
     "done": true
   },
@@ -6158,6 +6218,12 @@
   "l2complements:recipes/diffusion/diffusion/diamond_ore": {
     "criteria": {
       "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-05-10 02:06:03 +0000"
     },
     "done": true
   },
