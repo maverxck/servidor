@@ -19,3 +19,14 @@
 [10May2025 01:13:46.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/32585, l='ServerLevel[world]', x=84.10, y=-4.39, z=38.21] died: Foundry Guardian was slain by Maverxck23
 [10May2025 01:13:48.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Into Fire]
 [10May2025 01:14:18.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10May2025 01:17:48.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Ambush]
+[10May2025 01:17:58.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Who is Cutting Onions?]
+[10May2025 01:18:50.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Ol' Betsy]
+[10May2025 01:18:50.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Take Aim]
+[10May2025 01:19:04.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/33302, l='ServerLevel[world]', x=56.65, y=-4.00, z=15.61] died: Forge Sentry was shot by Maverxck23
+[10May2025 01:19:35.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Strong or Careful]
+[10May2025 01:19:35.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 was slain by Magma Cube
+[10May2025 01:19:35.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Your First Grave]
+[10May2025 01:19:35.259] [Server thread/INFO] [tombstone/]: The player Maverxck23 has successfully been saved
+[10May2025 01:19:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Here They Come]
+[10May2025 01:25:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Hidden in the Depths]

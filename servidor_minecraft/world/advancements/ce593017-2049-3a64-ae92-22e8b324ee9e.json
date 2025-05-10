@@ -2270,6 +2270,8 @@
       "minecraft:piglin_brute": "2025-05-08 06:19:07 +0000",
       "minecraft:creeper": "2025-05-08 05:58:08 +0000",
       "minecraft:slime": "2025-05-10 00:48:31 +0000",
+      "minecraft:phantom": "2025-05-10 01:17:48 +0000",
+      "minecraft:wither_skeleton": "2025-05-10 01:19:04 +0000",
       "minecraft:zombie": "2025-05-08 05:49:02 +0000",
       "minecraft:drowned": "2025-05-09 23:48:29 +0000",
       "minecraft:zombie_villager": "2025-05-09 23:26:04 +0000"
@@ -3914,6 +3916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-10 01:19:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-10 00:05:29 +0000"
@@ -3998,9 +4006,21 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 01:19:36 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-05-09 23:04:04 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_throwing_axe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -4013,6 +4033,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-05-10 00:15:33 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_chestplate": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -4136,6 +4162,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-10 01:18:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-05-09 23:27:20 +0000"
@@ -4145,6 +4177,12 @@
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-05-09 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_javelin": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -4175,6 +4213,12 @@
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-10 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_scythe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -4220,6 +4264,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/diffusion/diffusion/deepslate_diamond_ore": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-05-09 23:19:18 +0000"
@@ -4238,15 +4288,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-10 01:21:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-10 00:05:29 +0000"
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_hoe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
     "criteria": {
       "has_oak_planks": "2025-05-09 23:20:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 01:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-10 01:20:51 +0000"
     },
     "done": true
   },
@@ -4274,6 +4348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-10 01:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
     "criteria": {
       "has_waxed_copper_block": "2025-05-09 23:07:58 +0000"
@@ -4283,6 +4363,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_spear": {
     "criteria": {
       "has_gold_block": "2025-05-10 00:38:29 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_nunchaku": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -4334,6 +4420,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-10 01:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-10 01:20:51 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_plate_shield": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-10 00:04:43 +0000"
@@ -4367,6 +4471,12 @@
   "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-10 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-10 01:20:51 +0000"
     },
     "done": true
   },
@@ -4478,6 +4588,18 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_hammer": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-10 00:06:45 +0000"
@@ -4493,6 +4615,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-10 00:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-05-10 01:20:05 +0000"
     },
     "done": true
   },
@@ -4532,6 +4660,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 01:19:35 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/emerald_block": {
+    "criteria": {
+      "has_emerald_block": "2025-05-10 01:19:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
       "has_stone": "2025-05-09 23:21:12 +0000"
@@ -4541,6 +4681,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-09 23:20:08 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_sword": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -4643,6 +4789,12 @@
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-10 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_spear": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -4760,6 +4912,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 01:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-10 00:15:33 +0000"
@@ -4781,6 +4939,12 @@
   "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-10 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_dagger": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -4823,6 +4987,12 @@
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-05-10 01:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-10 01:17:58 +0000"
     },
     "done": true
   },
@@ -4916,9 +5086,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-05-10 01:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-10 01:20:51 +0000"
     },
     "done": true
   },
@@ -5264,6 +5446,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/enchantments/enchantments/stable_body": {
+    "criteria": {
+      "has_crying_obsidian": "2025-05-10 01:17:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-09 23:20:08 +0000"
@@ -5282,9 +5470,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-10 01:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-10 00:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-10 01:20:51 +0000"
     },
     "done": true
   },
@@ -5306,6 +5506,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_round_shield": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
     "criteria": {
       "has_gold_block": "2025-05-10 00:38:29 +0000"
@@ -5315,6 +5521,12 @@
   "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-09 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2025-05-10 01:19:59 +0000"
     },
     "done": true
   },
@@ -5339,6 +5551,12 @@
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-05-09 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_boots": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -5396,6 +5614,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 01:17:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-10 00:05:29 +0000"
@@ -5432,9 +5656,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-10 01:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-09 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_leggings": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -5453,6 +5689,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-10 00:06:45 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_helmet": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -5486,6 +5728,18 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_shovel": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_battle_axe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-10 00:05:29 +0000"
@@ -5510,6 +5764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-10 01:20:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-05-10 00:34:05 +0000"
@@ -5531,6 +5791,12 @@
   "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-09 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2025-05-10 01:19:59 +0000"
     },
     "done": true
   },
@@ -5624,6 +5890,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_claw": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-09 23:06:10 +0000"
@@ -5639,6 +5911,12 @@
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-10 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/diamond_ore": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
@@ -5666,9 +5944,21 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_machete": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-10 00:15:33 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_axe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 01:17:57 +0000"
     },
     "done": true
   },
