@@ -8856,3 +8856,18 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 06:36:44.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Bonk!]
 [10May2025 06:39:25.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 06:39:25.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 06:44:02.351] [Server thread/DEBUG] [mixin/]: Mixing TankSegmentAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.blockEntity.behaviour.fluid.SmartFluidTankBehaviour$TankSegment
+[10May2025 06:44:02.351] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:TankSegmentAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[10May2025 06:44:25.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 06:44:25.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 06:49:14.100] [Server thread/DEBUG] [mixin/]: Mixing OpenEndedPipeInvoker from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.OpenEndedPipe
+[10May2025 06:49:14.101] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndedPipeInvoker: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[10May2025 06:49:14.101] [Server thread/DEBUG] [mixin/]: Mixing OpenEndedPipeMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.OpenEndedPipe
+[10May2025 06:49:14.101] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndedPipeMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[10May2025 06:49:14.101] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$inject$2(Lnet/minecraftforge/fluids/capability/IFluidHandler;)V to md44e2f2$lambda$inject$2$0 in create_enchantment_industry.mixins.json:OpenEndedPipeMixin
+[10May2025 06:49:14.101] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$inject$1(Lplus/dragons/createenchantmentindustry/content/contraptions/fluids/experience/ExperienceFluid;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/world/phys/Vec3;ILnet/minecraft/world/entity/player/Player;)V to md44e2f2$lambda$inject$1$1 in create_enchantment_industry.mixins.json:OpenEndedPipeMixin
+[10May2025 06:49:14.101] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$inject$0(Lnet/minecraftforge/fluids/capability/IFluidHandler;)V to md44e2f2$lambda$inject$0$2 in create_enchantment_industry.mixins.json:OpenEndedPipeMixin
+[10May2025 06:49:14.111] [Server thread/DEBUG] [mixin/]: Mixing OpenEndFluidHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.OpenEndedPipe$OpenEndFluidHandler
+[10May2025 06:49:14.111] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndFluidHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[10May2025 06:49:25.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 06:49:25.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
