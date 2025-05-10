@@ -30,3 +30,11 @@
 [10May2025 01:19:35.259] [Server thread/INFO] [tombstone/]: The player Maverxck23 has successfully been saved
 [10May2025 01:19:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Here They Come]
 [10May2025 01:25:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Hidden in the Depths]
+[10May2025 01:26:46.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/34532, l='ServerLevel[world]', x=77.75, y=-6.24, z=61.18] died: Foundry Guardian was slain by Maverxck23
+[10May2025 01:27:05.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/34505, l='ServerLevel[world]', x=84.05, y=-1.37, z=86.93] died: Foundry Guardian was slain by Maverxck23
+[10May2025 01:30:06.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/35474, l='ServerLevel[world]', x=116.13, y=-7.84, z=21.10] died: Foundry Guardian was slain by Maverxck23
+[10May2025 01:31:26.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/35725, l='ServerLevel[world]', x=124.54, y=-7.10, z=39.70] died: Foundry Guardian was slain by Maverxck23
+[10May2025 01:31:54.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 was burnt to a crisp whilst fighting Foundry Guardian
+[10May2025 01:31:54.788] [Server thread/INFO] [tombstone/]: The player Maverxck23 has successfully been saved
+[10May2025 01:33:50.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36273, l='ServerLevel[world]', x=123.65, y=-7.00, z=38.02] died: Foundry Guardian was slain by Maverxck23
+[10May2025 01:34:48.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/35901, l='ServerLevel[world]', x=121.48, y=-6.35, z=38.05] died: Forge Sentry was slain by Maverxck23
