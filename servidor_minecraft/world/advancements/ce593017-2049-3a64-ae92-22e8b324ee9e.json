@@ -5327,6 +5327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-10 02:23:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper": {
     "criteria": {
       "has_oxidized_copper": "2025-05-09 23:10:06 +0000"
@@ -6074,6 +6080,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-05-09 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-10 02:23:16 +0000"
     },
     "done": true
   },
