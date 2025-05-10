@@ -269,3 +269,16 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 06:05:28.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> ad
 [10May2025 06:05:28.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> a
 [10May2025 06:05:28.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> da
+[10May2025 06:24:10.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Crystal Pioneer]
+[10May2025 06:25:17.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maverxck23: Teleported Maverxck23 to Heartt777]
+[10May2025 06:25:45.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Strong or Careful]
+[10May2025 06:25:45.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 withered away
+[10May2025 06:25:45.825] [Server thread/INFO] [tombstone/]: The player Heartt777 has successfully been saved
+[10May2025 06:25:50.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 withered away whilst fighting Lifestealer
+[10May2025 06:25:50.459] [Server thread/INFO] [tombstone/]: The player Maverxck23 has successfully been saved
+[10May2025 06:25:58.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Here They Come]
+[10May2025 06:26:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Chain Death]
+[10May2025 06:26:23.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 withered away whilst fighting Lifestealer
+[10May2025 06:26:23.767] [Server thread/INFO] [tombstone/]: The player Heartt777 has successfully been saved
+[10May2025 06:27:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
+[10May2025 06:29:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [The Andesite Age]

@@ -8829,3 +8829,23 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 06:14:25.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10May2025 06:19:25.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 06:19:25.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 06:24:10.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Crystal Pioneer]
+[10May2025 06:24:25.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 06:24:25.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 06:25:17.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maverxck23: Teleported Maverxck23 to Heartt777]
+[10May2025 06:25:45.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Strong or Careful]
+[10May2025 06:25:45.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 withered away
+[10May2025 06:25:45.818] [Server thread/DEBUG] [tombstone/]: A new grave of the player Heartt777 was created at position [x:307, y:29, z:671, dim:minecraft:overworld]
+[10May2025 06:25:45.825] [Server thread/INFO] [tombstone/]: The player Heartt777 has successfully been saved
+[10May2025 06:25:50.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 withered away whilst fighting Lifestealer
+[10May2025 06:25:50.456] [Server thread/DEBUG] [tombstone/]: A new grave of the player Maverxck23 was created at position [x:292, y:27, z:683, dim:minecraft:overworld]
+[10May2025 06:25:50.459] [Server thread/INFO] [tombstone/]: The player Maverxck23 has successfully been saved
+[10May2025 06:25:58.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Here They Come]
+[10May2025 06:26:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Chain Death]
+[10May2025 06:26:23.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 withered away whilst fighting Lifestealer
+[10May2025 06:26:23.766] [Server thread/DEBUG] [tombstone/]: A new grave of the player Heartt777 was created at position [x:307, y:29, z:671, dim:minecraft:overworld]
+[10May2025 06:26:23.767] [Server thread/INFO] [tombstone/]: The player Heartt777 has successfully been saved
+[10May2025 06:27:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
+[10May2025 06:29:25.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 06:29:25.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 06:29:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [The Andesite Age]
