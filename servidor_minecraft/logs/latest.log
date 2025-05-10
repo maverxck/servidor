@@ -213,3 +213,12 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 04:38:56.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Cover Me with Diamonds]
 [10May2025 04:46:48.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [10May2025 04:48:57.960] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10May2025 04:50:14.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Big Boy]
+[10May2025 04:51:01.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Fortuitous Militia]
+[10May2025 04:54:45.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Heartt777 lost connection: Disconnected
+[10May2025 04:54:45.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 left the game
+[10May2025 04:54:45.605] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10May2025 04:54:45.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maverxck23 lost connection: Timed out
+[10May2025 04:54:45.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 left the game
+[10May2025 04:55:10.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maverxck23[/127.50.150.81:43471] logged in with entity id 16639 at (207.57706559855635, 64.0, 29.73519298852433)
+[10May2025 04:55:10.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 joined the game
