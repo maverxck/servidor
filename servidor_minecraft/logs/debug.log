@@ -8023,3 +8023,9 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 04:12:39.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Abyssal Conqueror]
 [10May2025 04:14:25.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 04:14:25.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:19:25.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 04:19:25.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:21:20.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Grave Ravager]
+[10May2025 04:24:25.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 04:24:25.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 04:25:37.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Chompy]

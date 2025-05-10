@@ -203,3 +203,5 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 03:56:48.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=63, z=54} BlockPos{x=201, y=63, z=53}
 [10May2025 03:57:38.539] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [10May2025 04:12:39.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Abyssal Conqueror]
+[10May2025 04:21:20.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Grave Ravager]
+[10May2025 04:25:37.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Chompy]
