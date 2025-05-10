@@ -2871,6 +2871,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_throwing_axe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_glass": "2025-05-10 05:19:53 +0000"
@@ -2880,6 +2886,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-05-10 05:15:25 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_chestplate": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
     },
     "done": true
   },
@@ -2919,6 +2931,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_javelin": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-10 05:19:53 +0000"
@@ -2940,6 +2958,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_glass": "2025-05-10 05:19:53 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_scythe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
     },
     "done": true
   },
@@ -2973,6 +2997,18 @@
     },
     "done": true
   },
+  "l2complements:recipes/diffusion/diffusion/deepslate_diamond_ore": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_hoe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-05-10 05:19:53 +0000"
@@ -2991,6 +3027,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_nunchaku": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-05-10 05:15:25 +0000"
@@ -3006,6 +3048,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
     "criteria": {
       "has_glass": "2025-05-10 05:19:53 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_plate_shield": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
     },
     "done": true
   },
@@ -3051,9 +3099,21 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_hammer": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-10 05:19:53 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
     },
     "done": true
   },
@@ -3084,6 +3144,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-10 05:19:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_sword": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
     },
     "done": true
   },
@@ -3144,6 +3210,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-10 05:13:51 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_spear": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
     },
     "done": true
   },
@@ -3249,6 +3321,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_dagger": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-10 05:17:08 +0000"
@@ -3330,6 +3408,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-10 05:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
     },
     "done": true
   },
@@ -3495,9 +3579,21 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_round_shield": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-05-10 05:19:53 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_boots": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
     },
     "done": true
   },
@@ -3513,9 +3609,33 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_leggings": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_helmet": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-10 05:19:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_shovel": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_battle_axe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
     },
     "done": true
   },
@@ -3579,9 +3699,33 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_claw": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/diamond_ore": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_machete": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-10 05:15:25 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_axe": {
+    "criteria": {
+      "has_diamond_block": "2025-05-10 06:12:03 +0000"
     },
     "done": true
   },
