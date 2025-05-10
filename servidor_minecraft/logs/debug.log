@@ -8517,3 +8517,7 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 18:17:41.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 joined the game
 [10May2025 18:19:12.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 18:19:12.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 18:24:12.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 18:24:12.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 18:29:12.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 18:29:12.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
