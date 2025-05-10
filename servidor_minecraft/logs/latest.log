@@ -283,3 +283,7 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 06:27:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
 [10May2025 06:29:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [The Andesite Age]
 [10May2025 06:36:44.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Bonk!]
+[10May2025 06:53:13.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Heartt777 lost connection: Disconnected
+[10May2025 06:53:13.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 left the game
+[10May2025 06:58:26.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Spirit Taking]
+[10May2025 06:58:37.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maverxck23> i

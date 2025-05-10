@@ -8871,3 +8871,11 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 06:49:14.111] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndFluidHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [10May2025 06:49:25.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 06:49:25.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 06:53:13.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Heartt777 lost connection: Disconnected
+[10May2025 06:53:13.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 left the game
+[10May2025 06:54:25.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 06:54:25.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 06:58:26.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Spirit Taking]
+[10May2025 06:58:37.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maverxck23> i
+[10May2025 06:59:25.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 06:59:25.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

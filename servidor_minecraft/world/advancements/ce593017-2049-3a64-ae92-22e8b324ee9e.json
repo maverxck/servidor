@@ -7501,6 +7501,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:gone_with_the_foil": {
+    "criteria": {
+      "builtin": "2025-05-10 06:58:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-10 05:40:28 +0000"
@@ -7759,6 +7765,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-05-10 06:53:15 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-05-10 06:29:34 +0000"
@@ -7810,6 +7822,12 @@
   "create:recipes/misc/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2025-05-10 06:27:28 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2025-05-10 06:58:02 +0000"
     },
     "done": true
   },
@@ -7996,6 +8014,12 @@
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-10 05:40:28 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2025-05-10 06:58:26 +0000"
     },
     "done": true
   },
