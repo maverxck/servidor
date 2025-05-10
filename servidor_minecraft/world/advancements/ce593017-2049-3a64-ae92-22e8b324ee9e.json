@@ -2266,6 +2266,7 @@
       "minecraft:spider": "2025-05-08 05:47:21 +0000",
       "minecraft:piglin_brute": "2025-05-08 06:19:07 +0000",
       "minecraft:creeper": "2025-05-08 05:58:08 +0000",
+      "minecraft:slime": "2025-05-10 00:48:31 +0000",
       "minecraft:zombie": "2025-05-08 05:49:02 +0000",
       "minecraft:drowned": "2025-05-09 23:48:29 +0000",
       "minecraft:zombie_villager": "2025-05-09 23:26:04 +0000"
@@ -4558,6 +4559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-10 00:48:56 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/diamond_dagger_enchanted": {
     "criteria": {
       "has_diamond": "2025-05-10 00:15:33 +0000"
@@ -5068,6 +5075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-10 00:48:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-05-09 23:07:58 +0000"
@@ -5167,6 +5180,12 @@
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-05-09 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-10 00:48:56 +0000"
     },
     "done": true
   },
