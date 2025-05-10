@@ -38,3 +38,7 @@
 [10May2025 01:31:54.788] [Server thread/INFO] [tombstone/]: The player Maverxck23 has successfully been saved
 [10May2025 01:33:50.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36273, l='ServerLevel[world]', x=123.65, y=-7.00, z=38.02] died: Foundry Guardian was slain by Maverxck23
 [10May2025 01:34:48.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/35901, l='ServerLevel[world]', x=121.48, y=-6.35, z=38.05] died: Forge Sentry was slain by Maverxck23
+[10May2025 01:35:35.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/35903, l='ServerLevel[world]', x=121.58, y=-6.35, z=38.02] died: Forge Sentry was slain by Maverxck23
+[10May2025 01:36:13.062] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/35835, l='ServerLevel[world]', x=132.94, y=-8.00, z=49.09] died: Foundry Guardian was slain by Maverxck23
+[10May2025 01:36:29.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36652, l='ServerLevel[world]', x=145.31, y=-8.00, z=53.41] died: Foundry Guardian was slain by Maverxck23
+[10May2025 01:36:37.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36651, l='ServerLevel[world]', x=141.75, y=-8.00, z=49.49] died: Foundry Guardian was slain by Maverxck23
