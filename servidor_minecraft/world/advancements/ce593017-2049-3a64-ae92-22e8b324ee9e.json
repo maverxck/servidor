@@ -8179,6 +8179,13 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_4": "2025-05-10 18:18:29 +0000",
+      "charm_collector_3": "2025-05-10 18:14:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-05-10 17:51:33 +0000"
@@ -8200,6 +8207,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-05-10 17:50:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-05-10 18:16:08 +0000"
     },
     "done": true
   },

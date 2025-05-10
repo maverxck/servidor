@@ -213,3 +213,19 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 17:57:52.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [10May2025 17:57:52.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Life turned out to be a comedy]
 [10May2025 17:58:08.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
+[10May2025 18:06:37.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [The Lighthouse]
+[10May2025 18:12:27.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
+[10May2025 18:13:15.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 withered away
+[10May2025 18:13:15.220] [Server thread/INFO] [tombstone/]: The player Maverxck23 has successfully been saved
+[10May2025 18:13:20.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Fighting Nightmares]
+[10May2025 18:13:20.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Dark Metallurgy]
+[10May2025 18:14:04.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Dark Creator]
+[10May2025 18:14:49.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10May2025 18:14:54.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[10May2025 18:15:33.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10May2025 18:15:36.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Heartt777 lost connection: Disconnected
+[10May2025 18:15:36.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 left the game
+[10May2025 18:15:49.636] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a8d53c1[id=<null>,name=Heartt777,properties={},legacy=false] (/127.98.230.140:57841) lost connection: Disconnected
+[10May2025 18:16:08.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [The Wind Darkening]
+[10May2025 18:17:41.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Heartt777[/127.98.230.140:34355] logged in with entity id 10595 at (318.6196636740996, 80.0, 457.5802718557291)
+[10May2025 18:17:41.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 joined the game
