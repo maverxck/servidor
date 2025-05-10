@@ -3923,6 +3923,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-10 00:05:29 +0000"
@@ -4079,6 +4085,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-05-09 23:10:06 +0000"
@@ -4094,6 +4106,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-09 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_boots": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -4139,6 +4157,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-05-09 23:17:10 +0000"
@@ -4160,6 +4184,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-05-10 01:13:48 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_shovel": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -4196,6 +4226,12 @@
   "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-10 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_throwing_axe": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -4271,6 +4307,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-10 01:42:54 +0000"
@@ -4295,6 +4337,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_claw": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-05-09 23:21:12 +0000"
@@ -4316,6 +4364,12 @@
   "l2complements:recipes/misc/vanilla/upgrade/diamond_hoe": {
     "criteria": {
       "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_machete": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -4427,9 +4481,21 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-10 00:06:45 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cannon": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -4781,6 +4847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-10 00:05:29 +0000"
@@ -4796,6 +4868,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
     "criteria": {
       "has_gold_block": "2025-05-10 00:38:29 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -4817,9 +4895,21 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-10 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-10 02:01:38 +0000"
     },
     "done": true
   },
@@ -4955,6 +5045,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 02:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-10 00:04:43 +0000"
@@ -5036,6 +5132,12 @@
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-05-10 01:09:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -5375,6 +5477,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_battle_axe": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-10 00:05:29 +0000"
@@ -5408,6 +5516,12 @@
   "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-09 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_round_shield": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -5489,9 +5603,21 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_scythe": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-09 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -5561,6 +5687,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-10 02:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-10 01:20:51 +0000"
@@ -5588,6 +5720,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/diamond_round_shield": {
     "criteria": {
       "has_diamond_block": "2025-05-10 01:17:57 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_javelin": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -5660,6 +5798,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-10 00:48:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 02:01:38 +0000"
     },
     "done": true
   },
@@ -5792,6 +5936,12 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-10 00:05:29 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_nunchaku": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -6023,15 +6173,33 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_dagger": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-09 23:04:04 +0000"
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_hoe": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
     "criteria": {
       "has_gold_block": "2025-05-10 00:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
