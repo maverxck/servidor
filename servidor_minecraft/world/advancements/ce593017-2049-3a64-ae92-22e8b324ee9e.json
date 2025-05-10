@@ -6834,9 +6834,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-05-10 04:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-05-10 04:17:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-10 04:25:37 +0000"
     },
     "done": true
   },
@@ -6863,6 +6875,18 @@
       "bury_them_all_6": "2025-05-10 04:21:23 +0000"
     },
     "done": false
+  },
+  "l2complements:recipes/burnt/burnt/cooked_cod": {
+    "criteria": {
+      "has_cooked_cod": "2025-05-10 04:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-10 04:26:17 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

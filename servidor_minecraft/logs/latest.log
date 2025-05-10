@@ -205,3 +205,9 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 04:12:39.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Abyssal Conqueror]
 [10May2025 04:21:20.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Grave Ravager]
 [10May2025 04:25:37.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Chompy]
+[10May2025 04:34:59.053] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77e4781c[id=<null>,name=Heartt777,properties={},legacy=false] (/127.98.230.140:48247) lost connection: Disconnected
+[10May2025 04:35:32.150] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@543d9187[id=<null>,name=Heartt777,properties={},legacy=false] (/127.98.230.140:39125) lost connection: Disconnected
+[10May2025 04:35:58.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Heartt777[/127.98.230.140:36479] logged in with entity id 11619 at (139.69999998807907, -3.0, -27.69999998807907)
+[10May2025 04:35:58.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 joined the game
+[10May2025 04:36:23.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
+[10May2025 04:38:56.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Cover Me with Diamonds]
