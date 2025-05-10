@@ -227,3 +227,9 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 05:06:47.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 joined the game
 [10May2025 05:06:48.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [10May2025 05:08:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
+[10May2025 05:10:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Back to childhood]
+[10May2025 05:10:26.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Not even afraid of death]
+[10May2025 05:10:37.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Knowledge raises the soul]
+[10May2025 05:11:38.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maverxck23: Teleported Maverxck23 to Heartt777]
+[10May2025 05:13:16.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Hot Stuff]
+[10May2025 05:15:25.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Diamonds!]
