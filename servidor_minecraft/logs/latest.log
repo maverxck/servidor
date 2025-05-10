@@ -1,56 +1,57 @@
-[10May2025 17:43:02.585] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[10May2025 17:43:02.590] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[10May2025 17:43:09.574] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[10May2025 17:43:09.688] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[10May2025 17:43:10.209] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[10May2025 17:43:10.210] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10May2025 17:43:10.212] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10May2025 17:43:10.214] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10May2025 17:43:10.783] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[10May2025 17:43:10.785] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 18 dependencies adding them to mods collection
-[10May2025 17:43:13.949] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[10May2025 17:43:14.161] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[10May2025 17:43:14.455] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 109 options available, 0 override(s) found
-[10May2025 17:43:14.506] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
-[10May2025 17:43:14.527] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[10May2025 17:43:15.809] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[10May2025 17:43:15.810] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[10May2025 17:43:15.811] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[10May2025 17:43:16.102] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[10May2025 17:43:16.102] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[10May2025 17:43:16.102] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found mixins.create_sa.json:AbstractClientPlayerMixin
-[10May2025 17:43:16.820] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[10May2025 17:43:24.802] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zgf000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[10May2025 17:43:27.551] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[10May2025 17:43:27.552] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[10May2025 17:43:27.564] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[10May2025 17:43:27.565] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[10May2025 17:43:27.570] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[10May2025 17:43:27.572] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[10May2025 17:43:27.584] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[10May2025 17:43:27.586] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[10May2025 17:43:27.712] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[10May2025 17:43:28.230] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[10May2025 17:43:28.230] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[10May2025 17:43:28.710] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[10May2025 17:43:29.089] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[10May2025 17:43:30.105] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[10May2025 17:43:33.630] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.Entity from class it.hurts.octostudios.rarcompat.items.necklace.ScarfOfInvisibilityItem
-[10May2025 17:43:35.058] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[10May2025 17:43:35.287] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[10May2025 17:43:35.382] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[10May2025 17:43:36.520] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[10May2025 17:43:37.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.3 Target: null
-[10May2025 17:43:37.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10May2025 17:43:37.051] [main/INFO] [journeymap/]: Initializing Packet Registries
-[10May2025 17:43:37.309] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[10May2025 17:43:37.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[10May2025 17:43:37.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[10May2025 17:43:37.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.27 Target: null
-[10May2025 17:43:37.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[10May2025 17:43:37.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
-[10May2025 17:43:37.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[10May2025 17:43:38.089] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[10May2025 23:45:14.019] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10May2025 23:45:14.023] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[10May2025 23:45:15.922] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10May2025 23:45:15.987] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[10May2025 23:45:16.412] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[10May2025 23:45:16.413] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10May2025 23:45:16.414] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10May2025 23:45:16.415] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10May2025 23:45:16.826] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[10May2025 23:45:16.827] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 18 dependencies adding them to mods collection
+[10May2025 23:45:19.694] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10May2025 23:45:19.878] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10May2025 23:45:20.097] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 109 options available, 0 override(s) found
+[10May2025 23:45:20.152] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
+[10May2025 23:45:20.171] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[10May2025 23:45:21.404] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[10May2025 23:45:21.405] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[10May2025 23:45:21.405] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[10May2025 23:45:21.769] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[10May2025 23:45:21.770] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[10May2025 23:45:21.770] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found mixins.create_sa.json:AbstractClientPlayerMixin
+[10May2025 23:45:22.425] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[10May2025 23:45:29.519] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zgf000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[10May2025 23:45:32.227] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10May2025 23:45:32.229] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[10May2025 23:45:32.243] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[10May2025 23:45:32.261] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[10May2025 23:45:32.265] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[10May2025 23:45:32.274] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[10May2025 23:45:32.284] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[10May2025 23:45:32.290] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[10May2025 23:45:32.585] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[10May2025 23:45:33.149] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[10May2025 23:45:33.150] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[10May2025 23:45:33.815] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[10May2025 23:45:34.623] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[10May2025 23:45:35.739] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[10May2025 23:45:38.923] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.Entity from class it.hurts.octostudios.rarcompat.items.necklace.ScarfOfInvisibilityItem
+[10May2025 23:45:40.210] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[10May2025 23:45:40.496] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[10May2025 23:45:40.556] [Thread-1/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[10May2025 23:45:40.594] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[10May2025 23:45:41.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[10May2025 23:45:41.668] [main/INFO] [journeymap/]: Initializing Packet Registries
+[10May2025 23:45:41.685] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[10May2025 23:45:41.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10May2025 23:45:41.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[10May2025 23:45:41.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[10May2025 23:45:41.921] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[10May2025 23:45:42.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.27 Target: null
+[10May2025 23:45:42.655] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[10May2025 23:45:42.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
+[10May2025 23:45:42.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[10May2025 23:45:42.929] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -65,8 +66,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[10May2025 17:43:38.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[10May2025 17:43:38.121] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[10May2025 23:45:42.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[10May2025 23:45:43.056] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -81,29 +82,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[10May2025 17:43:41.539] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10May2025 17:43:44.753] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
-[10May2025 17:43:44.753] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
-[10May2025 17:43:44.904] [main/INFO] [com.simibubi.create.Create/]: Created 146 recipes which will be injected into the game
-[10May2025 17:43:44.915] [main/INFO] [com.simibubi.create.Create/]: Created 1 tags which will be injected into the game
-[10May2025 17:43:47.531] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[10May2025 17:43:47.647] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
+[10May2025 23:45:45.043] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10May2025 23:45:47.239] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
+[10May2025 23:45:47.239] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
+[10May2025 23:45:47.375] [main/INFO] [com.simibubi.create.Create/]: Created 146 recipes which will be injected into the game
+[10May2025 23:45:47.389] [main/INFO] [com.simibubi.create.Create/]: Created 1 tags which will be injected into the game
+[10May2025 23:45:49.485] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[10May2025 23:45:49.679] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
+[10May2025 23:45:49.687] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:deflected_wind (from ancient_elements-1.3.4.jar), 
 	ancient_elements:moltenspearprojektile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:wind (from ancient_elements-1.3.4.jar)
-[10May2025 17:43:47.745] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
-[10May2025 17:43:47.784] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag easy_villagers:invalid_farmer_crop as it is missing following references: farmersdelight:tomato_seeds (from easy-villagers-forge-1.20.1-1.1.27.jar)
-[10May2025 17:43:49.071] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[10May2025 17:43:49.071] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[10May2025 17:43:49.071] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[10May2025 17:43:49.072] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[10May2025 17:43:49.112] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[10May2025 17:43:49.170] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[10May2025 17:43:49.185] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[10May2025 17:43:49.189] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[10May2025 17:43:49.213] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[10May2025 17:43:49.214] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[10May2025 17:43:49.218] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_sa:andesite_exoskeleton_recipe
+[10May2025 23:45:49.724] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag easy_villagers:invalid_farmer_crop as it is missing following references: farmersdelight:tomato_seeds (from easy-villagers-forge-1.20.1-1.1.27.jar)
+[10May2025 23:45:50.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10May2025 23:45:50.884] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10May2025 23:45:50.884] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10May2025 23:45:50.885] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[10May2025 23:45:50.909] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[10May2025 23:45:50.984] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[10May2025 23:45:51.001] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[10May2025 23:45:51.006] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[10May2025 23:45:51.034] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[10May2025 23:45:51.036] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[10May2025 23:45:51.045] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_sa:andesite_exoskeleton_recipe
 com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:185) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
@@ -137,224 +138,63 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10May2025 17:43:49.256] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[10May2025 17:43:49.270] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[10May2025 17:43:49.273] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[10May2025 17:43:49.295] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[10May2025 17:43:49.301] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 40 recipes
-[10May2025 17:43:49.558] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4770 advancements
-[10May2025 17:43:49.568] [main/INFO] [Dungeon Crawl/]: Loading data...
-[10May2025 17:43:49.922] [main/INFO] [Dungeon Crawl/]: Done.
-[10May2025 17:43:49.946] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[10May2025 17:43:49.954] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[10May2025 17:43:49.955] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[10May2025 17:43:49.971] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[10May2025 17:43:52.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[10May2025 17:43:52.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10May2025 17:43:52.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10May2025 17:43:52.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10May2025 17:43:53.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10May2025 17:43:53.194] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[10May2025 17:43:53.310] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10May2025 17:43:53.310] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10May2025 17:43:53.311] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10May2025 17:43:53.311] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10May2025 17:43:53.331] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[10May2025 17:43:53.332] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[10May2025 17:43:53.332] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[10May2025 17:43:53.778] [Server thread/INFO] [Framework/]: Loading server configs...
-[10May2025 17:43:53.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10May2025 17:43:54.305] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[10May2025 17:43:58.583] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[10May2025 17:43:58.603] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[10May2025 17:43:58.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10May2025 17:44:05.303] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:05.353] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:05.376] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:05.388] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.080] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.128] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.141] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.182] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.230] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.241] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.255] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.276] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.282] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.388] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.712] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.729] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:06.748] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:07.122] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:07.614] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:08.222] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:08.937] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:09.113] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10May2025 17:44:09.613] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
-[10May2025 17:44:10.114] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[10May2025 17:44:10.346] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11734 ms
-[10May2025 17:44:10.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.019s)! For help, type "help"
-[10May2025 17:44:10.452] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10May2025 17:44:10.513] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[10May2025 17:44:10.515] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[10May2025 17:44:21.824] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[10May2025 17:44:22.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maverxck23[/127.50.150.81:33781] logged in with entity id 764 at (335.68384102429434, 79.0, 488.9685876144481)
-[10May2025 17:44:22.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 joined the game
-[10May2025 17:44:24.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
-[10May2025 17:46:35.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Heartt777[/127.98.230.140:54269] logged in with entity id 1277 at (340.5392157840255, 79.0, 488.2544121563038)
-[10May2025 17:46:35.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 joined the game
-[10May2025 17:46:55.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Spirit Taking]
-[10May2025 17:48:29.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [What a Deal!]
-[10May2025 17:51:47.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Hammer Time!]
-[10May2025 17:52:09.470] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[10May2025 17:54:25.942] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/2926, l='ServerLevel[world]', x=152.33, y=-8.00, z=13.77] died: Foundry Guardian was slain by Maverxck23
-[10May2025 17:57:16.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/4763, l='ServerLevel[world]', x=271.50, y=72.00, z=512.50] died: Forge Sentry was slain by Maverxck23
-[10May2025 17:57:51.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[10May2025 17:57:52.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[10May2025 17:57:52.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Life turned out to be a comedy]
-[10May2025 17:58:08.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
-[10May2025 18:06:37.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [The Lighthouse]
-[10May2025 18:12:27.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
-[10May2025 18:13:15.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 withered away
-[10May2025 18:13:15.220] [Server thread/INFO] [tombstone/]: The player Maverxck23 has successfully been saved
-[10May2025 18:13:20.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Fighting Nightmares]
-[10May2025 18:13:20.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Dark Metallurgy]
-[10May2025 18:14:04.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Dark Creator]
-[10May2025 18:14:49.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[10May2025 18:14:54.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[10May2025 18:15:33.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[10May2025 18:15:36.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Heartt777 lost connection: Disconnected
-[10May2025 18:15:36.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 left the game
-[10May2025 18:15:49.636] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a8d53c1[id=<null>,name=Heartt777,properties={},legacy=false] (/127.98.230.140:57841) lost connection: Disconnected
-[10May2025 18:16:08.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [The Wind Darkening]
-[10May2025 18:17:41.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Heartt777[/127.98.230.140:34355] logged in with entity id 10595 at (318.6196636740996, 80.0, 457.5802718557291)
-[10May2025 18:17:41.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 joined the game
-[10May2025 18:37:04.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/14998, l='ServerLevel[world]', x=328.63, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:37:41.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15061, l='ServerLevel[world]', x=329.08, y=62.04, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:37:48.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15060, l='ServerLevel[world]', x=328.51, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:37:57.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15123, l='ServerLevel[world]', x=328.90, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:38:10.243] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15124, l='ServerLevel[world]', x=328.48, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:38:26.287] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15179, l='ServerLevel[world]', x=328.29, y=62.00, z=461.60] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:38:30.492] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15180, l='ServerLevel[world]', x=328.72, y=62.00, z=461.27] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:40:24.043] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15280, l='ServerLevel[world]', x=328.65, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:40:33.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15388, l='ServerLevel[world]', x=328.63, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:40:34.882] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15335, l='ServerLevel[world]', x=329.13, y=62.07, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:40:35.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15281, l='ServerLevel[world]', x=328.24, y=62.11, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:40:42.730] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15471, l='ServerLevel[world]', x=328.31, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:40:46.831] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15472, l='ServerLevel[world]', x=329.09, y=62.09, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:40:49.793] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15387, l='ServerLevel[world]', x=328.58, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:41:19.191] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15539, l='ServerLevel[world]', x=328.36, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:41:19.847] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15540, l='ServerLevel[world]', x=329.14, y=62.00, z=461.59] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:43:53.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15706, l='ServerLevel[world]', x=328.34, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:43:55.248] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15641, l='ServerLevel[world]', x=327.83, y=62.34, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:44:01.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15642, l='ServerLevel[world]', x=328.18, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:44:07.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Spooky Scary Skeleton]
-[10May2025 18:44:11.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15707, l='ServerLevel[world]', x=328.91, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:44:15.994] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15586, l='ServerLevel[world]', x=328.22, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:44:21.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/15708, l='ServerLevel[world]', x=328.27, y=62.01, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:45:07.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16068, l='ServerLevel[world]', x=328.91, y=62.28, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:45:14.644] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16177, l='ServerLevel[world]', x=328.60, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:45:50.844] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16242, l='ServerLevel[world]', x=328.53, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:46:38.045] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16373, l='ServerLevel[world]', x=328.35, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:46:39.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[10May2025 18:46:44.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16372, l='ServerLevel[world]', x=328.58, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:47:09.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16481, l='ServerLevel[world]', x=328.43, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:47:17.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[10May2025 18:47:54.930] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16529, l='ServerLevel[world]', x=328.72, y=62.00, z=461.65] died: Forge Sentry was slain by Heartt777
-[10May2025 18:48:24.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16624, l='ServerLevel[world]', x=329.43, y=62.34, z=461.60] died: Forge Sentry was slain by Heartt777
-[10May2025 18:48:53.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16670, l='ServerLevel[world]', x=329.41, y=62.00, z=461.65] died: Forge Sentry was slain by Heartt777
-[10May2025 18:49:01.830] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16623, l='ServerLevel[world]', x=329.59, y=62.30, z=461.21] died: Forge Sentry was slain by Heartt777
-[10May2025 18:49:10.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16671, l='ServerLevel[world]', x=329.29, y=62.00, z=461.65] died: Forge Sentry was slain by Heartt777
-[10May2025 18:49:17.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16718, l='ServerLevel[world]', x=329.17, y=62.00, z=461.65] died: Forge Sentry was slain by Heartt777
-[10May2025 18:49:23.130] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16720, l='ServerLevel[world]', x=328.34, y=62.00, z=461.65] died: Forge Sentry was slain by Heartt777
-[10May2025 18:49:32.353] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16781, l='ServerLevel[world]', x=329.29, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:50:00.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16865, l='ServerLevel[world]', x=329.07, y=62.32, z=461.58] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:50:05.497] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16866, l='ServerLevel[world]', x=328.81, y=62.37, z=461.62] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:50:11.548] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16864, l='ServerLevel[world]', x=328.54, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:50:35.054] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16988, l='ServerLevel[world]', x=328.61, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:50:40.202] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16989, l='ServerLevel[world]', x=328.60, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:51:31.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17080, l='ServerLevel[world]', x=328.34, y=62.35, z=461.62] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:51:57.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17198, l='ServerLevel[world]', x=328.92, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:51:58.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17199, l='ServerLevel[world]', x=328.22, y=62.30, z=461.38] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:52:19.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17309, l='ServerLevel[world]', x=328.27, y=62.34, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:52:24.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17310, l='ServerLevel[world]', x=328.50, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:52:51.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17442, l='ServerLevel[world]', x=328.54, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:53:17.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17522, l='ServerLevel[world]', x=328.70, y=62.29, z=461.64] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:53:21.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17520, l='ServerLevel[world]', x=328.51, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:53:26.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17521, l='ServerLevel[world]', x=328.49, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:53:45.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17593, l='ServerLevel[world]', x=328.54, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:54:13.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17667, l='ServerLevel[world]', x=328.48, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:55:08.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17778, l='ServerLevel[world]', x=328.35, y=62.34, z=461.64] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:55:13.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17865, l='ServerLevel[world]', x=328.51, y=62.00, z=461.56] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:56:57.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17994, l='ServerLevel[world]', x=328.39, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:57:04.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17995, l='ServerLevel[world]', x=328.31, y=62.26, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 18:57:09.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/18194, l='ServerLevel[world]', x=328.59, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:00:09.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/18791, l='ServerLevel[world]', x=328.53, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:00:22.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/18863, l='ServerLevel[world]', x=328.57, y=62.01, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:00:27.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/18793, l='ServerLevel[world]', x=329.15, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:00:28.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/18373, l='ServerLevel[world]', x=328.01, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:00:35.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/18952, l='ServerLevel[world]', x=328.44, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:01:36.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19073, l='ServerLevel[world]', x=328.35, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:01:43.215] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19071, l='ServerLevel[world]', x=328.49, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:01:48.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19112, l='ServerLevel[world]', x=328.57, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:01:57.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19113, l='ServerLevel[world]', x=328.46, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:02:11.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19231, l='ServerLevel[world]', x=328.28, y=62.38, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:02:29.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19230, l='ServerLevel[world]', x=328.33, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:02:30.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19072, l='ServerLevel[world]', x=329.14, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:02:36.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19358, l='ServerLevel[world]', x=328.24, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:05:09.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19486, l='ServerLevel[world]', x=328.26, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:05:13.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19485, l='ServerLevel[world]', x=328.44, y=62.00, z=461.61] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:06:20.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19845, l='ServerLevel[world]', x=328.36, y=62.00, z=461.57] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:06:35.537] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/19893, l='ServerLevel[world]', x=328.28, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:06:39.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/20015, l='ServerLevel[world]', x=328.58, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:07:12.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/20080, l='ServerLevel[world]', x=328.59, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:08:05.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/20180, l='ServerLevel[world]', x=328.41, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:08:11.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/20211, l='ServerLevel[world]', x=328.48, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:08:14.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/20181, l='ServerLevel[world]', x=328.38, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:08:38.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/20439, l='ServerLevel[world]', x=328.72, y=62.34, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:08:42.987] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/20438, l='ServerLevel[world]', x=328.49, y=62.14, z=461.61] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:08:50.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/20652, l='ServerLevel[world]', x=328.55, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:10:38.536] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
-[10May2025 19:10:38.537] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
-[10May2025 19:10:38.587] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
-[10May2025 19:10:38.588] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
-[10May2025 19:10:38.589] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
-[10May2025 19:10:38.590] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
-[10May2025 19:10:38.590] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
-[10May2025 19:10:40.226] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
-[10May2025 19:10:40.256] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[10May2025 19:10:40.258] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[10May2025 19:17:40.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24008, l='ServerLevel[world]', x=328.70, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:18:42.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24258, l='ServerLevel[world]', x=328.57, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:18:56.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24116, l='ServerLevel[world]', x=328.79, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:19:01.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[10May2025 19:19:49.885] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24379, l='ServerLevel[world]', x=328.27, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:19:54.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24529, l='ServerLevel[world]', x=328.45, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:20:44.184] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24772, l='ServerLevel[world]', x=328.32, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:20:59.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24675, l='ServerLevel[world]', x=328.29, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:21:02.385] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24886, l='ServerLevel[world]', x=328.45, y=62.00, z=461.62] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:22:14.836] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25113, l='ServerLevel[world]', x=328.38, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:22:25.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24972, l='ServerLevel[world]', x=328.55, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:22:27.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25036, l='ServerLevel[world]', x=328.50, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:22:39.944] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25263, l='ServerLevel[world]', x=328.47, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:23:22.237] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25403, l='ServerLevel[world]', x=328.49, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:24:22.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[10May2025 19:24:32.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25596, l='ServerLevel[world]', x=328.47, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:24:38.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25537, l='ServerLevel[world]', x=328.78, y=62.00, z=461.63] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:24:44.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25715, l='ServerLevel[world]', x=328.40, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:25:14.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25819, l='ServerLevel[world]', x=328.52, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:26:19.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/26005, l='ServerLevel[world]', x=328.34, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:26:29.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25927, l='ServerLevel[world]', x=328.50, y=62.00, z=461.62] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:27:10.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/26152, l='ServerLevel[world]', x=328.81, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:27:20.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/26243, l='ServerLevel[world]', x=328.64, y=62.00, z=461.62] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:27:41.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[10May2025 19:27:41.486] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/26358, l='ServerLevel[world]', x=328.42, y=62.35, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:28:21.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/26455, l='ServerLevel[world]', x=328.49, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:28:35.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/26543, l='ServerLevel[world]', x=328.42, y=62.00, z=461.64] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:28:58.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/26670, l='ServerLevel[world]', x=328.37, y=62.00, z=461.58] died: Forge Sentry was slain by Maverxck23
-[10May2025 19:29:16.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Maverxck23 to Heartt777]
-[10May2025 19:31:18.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Fighting Nightmares]
-[10May2025 19:32:49.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Junior Summoner]
-[10May2025 19:33:51.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Where Is The Stone Pen?]
-[10May2025 19:34:04.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Amateur Archaeologist]
-[10May2025 19:34:13.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
+[10May2025 23:45:51.086] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[10May2025 23:45:51.120] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[10May2025 23:45:51.127] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[10May2025 23:45:51.150] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[10May2025 23:45:51.161] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 40 recipes
+[10May2025 23:45:51.453] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4770 advancements
+[10May2025 23:45:51.461] [main/INFO] [Dungeon Crawl/]: Loading data...
+[10May2025 23:45:51.789] [main/INFO] [Dungeon Crawl/]: Done.
+[10May2025 23:45:51.815] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[10May2025 23:45:51.824] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[10May2025 23:45:51.826] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[10May2025 23:45:51.848] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[10May2025 23:45:53.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10May2025 23:45:53.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10May2025 23:45:53.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10May2025 23:45:53.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10May2025 23:45:54.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10May2025 23:45:54.121] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10May2025 23:45:54.203] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10May2025 23:45:54.204] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10May2025 23:45:54.204] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10May2025 23:45:54.204] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10May2025 23:45:54.217] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10May2025 23:45:54.219] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10May2025 23:45:54.221] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10May2025 23:45:54.524] [Server thread/INFO] [Framework/]: Loading server configs...
+[10May2025 23:45:54.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10May2025 23:45:54.928] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[10May2025 23:45:57.812] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[10May2025 23:45:57.826] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[10May2025 23:45:57.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10May2025 23:46:03.368] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.369] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.404] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.419] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.423] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.447] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.452] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.462] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.474] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.498] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.510] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.525] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:03.840] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:04.335] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10May2025 23:46:04.831] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[10May2025 23:46:05.331] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[10May2025 23:46:05.793] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7963 ms
+[10May2025 23:46:05.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.578s)! For help, type "help"
+[10May2025 23:46:05.864] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10May2025 23:46:05.913] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[10May2025 23:46:05.917] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[10May2025 23:46:49.872] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[10May2025 23:46:50.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maverxck23[/127.50.150.81:41479] logged in with entity id 756 at (96.09006258673624, 36.0, 13.414106757612736)
+[10May2025 23:46:50.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 joined the game
+[10May2025 23:55:04.420] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[10May2025 23:55:04.421] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[10May2025 23:55:05.115] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 5ffc1fce-40cf-4ebf-9e4f-e01f59adeb52
+[10May2025 23:55:05.150] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID cd1630df-15c2-4c98-943d-cd85ff6b53c1
+[10May2025 23:55:05.154] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/servidor/servidor_minecraft/./crash-reports/crash-2025-05-10_23.55.05-server.txt
