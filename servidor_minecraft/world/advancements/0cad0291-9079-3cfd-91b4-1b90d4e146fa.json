@@ -930,6 +930,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-05-08 05:50:10 +0000",
+      "minecraft:wither_skeleton": "2025-05-10 18:47:54 +0000",
       "minecraft:husk": "2025-05-08 05:22:06 +0000",
       "minecraft:zombie": "2025-05-08 05:01:36 +0000",
       "minecraft:zombie_villager": "2025-05-10 18:14:06 +0000"
@@ -4784,6 +4785,12 @@
   "l2complements:recipes/misc/craft/wind_capture_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-05-10 18:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-10 18:46:27 +0000"
     },
     "done": true
   },
