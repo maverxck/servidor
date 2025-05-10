@@ -2278,6 +2278,7 @@
       "minecraft:creeper": "2025-05-08 05:58:08 +0000",
       "minecraft:slime": "2025-05-10 00:48:31 +0000",
       "minecraft:phantom": "2025-05-10 01:17:48 +0000",
+      "minecraft:witch": "2025-05-10 06:31:41 +0000",
       "minecraft:wither_skeleton": "2025-05-10 01:19:04 +0000",
       "minecraft:husk": "2025-05-10 02:37:34 +0000",
       "minecraft:zombie": "2025-05-08 05:49:02 +0000",
@@ -7026,6 +7027,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-05-10 06:27:28 +0000"
@@ -7044,6 +7051,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-05-10 06:37:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-05-10 06:27:28 +0000"
@@ -7053,6 +7066,12 @@
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-05-10 05:40:28 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2025-05-10 06:37:54 +0000"
     },
     "done": true
   },
@@ -7071,6 +7090,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 05:40:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
     },
     "done": true
   },
@@ -7098,9 +7123,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-05-10 05:40:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-05-10 06:37:54 +0000"
     },
     "done": true
   },
@@ -7113,6 +7150,12 @@
   "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
     "criteria": {
       "has_item": "2025-05-10 06:27:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
     },
     "done": true
   },
@@ -7140,6 +7183,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-05-10 06:33:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-10 05:42:59 +0000"
@@ -7149,6 +7198,12 @@
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-05-10 06:27:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
     },
     "done": true
   },
@@ -7206,9 +7261,21 @@
     },
     "done": true
   },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2025-05-10 06:37:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-05-10 05:42:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
     },
     "done": true
   },
@@ -7242,6 +7309,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-10 05:42:59 +0000"
@@ -7272,9 +7345,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-10 05:42:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
     },
     "done": true
   },
@@ -7362,9 +7447,27 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-05-10 06:36:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-05-10 06:27:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
     },
     "done": true
   },
@@ -7410,6 +7513,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2025-05-10 06:27:28 +0000"
@@ -7425,6 +7534,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2025-05-10 06:27:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-05-10 06:37:54 +0000"
     },
     "done": true
   },
@@ -7500,6 +7615,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-05-10 06:27:28 +0000"
@@ -7509,6 +7630,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-10 05:42:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/desk_bell": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
     },
     "done": true
   },
@@ -7524,9 +7651,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-05-10 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-05-10 06:29:27 +0000"
     },
     "done": true
   },
@@ -7590,6 +7729,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-10 05:50:24 +0000"
@@ -7638,6 +7783,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-10 05:42:59 +0000"
@@ -7659,6 +7810,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 05:40:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
     },
     "done": true
   },
@@ -7758,9 +7915,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/chain_conveyor": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-10 05:40:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive_from_zinc": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-05-10 06:37:54 +0000"
     },
     "done": true
   },
@@ -7812,6 +7987,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-05-10 06:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-05-10 05:52:59 +0000"
@@ -7821,6 +8002,18 @@
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-10 05:42:59 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-05-10 06:37:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-05-10 06:33:49 +0000"
     },
     "done": true
   },
@@ -7869,6 +8062,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-10 05:42:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2025-05-10 06:29:34 +0000"
     },
     "done": true
   },

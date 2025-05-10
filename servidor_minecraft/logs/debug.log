@@ -8849,3 +8849,10 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 06:29:25.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 06:29:25.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10May2025 06:29:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [The Andesite Age]
+[10May2025 06:34:25.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 06:34:25.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 06:35:31.660] [Server thread/DEBUG] [mixin/]: Mixing dragonLibLegacy.AdvancementBehaviourAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.advancement.AdvancementBehaviour
+[10May2025 06:35:31.660] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:dragonLibLegacy.AdvancementBehaviourAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[10May2025 06:36:44.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Bonk!]
+[10May2025 06:39:25.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 06:39:25.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
