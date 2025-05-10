@@ -61,6 +61,7 @@
       "minecraft:dripstone_caves": "2025-05-08 05:49:09 +0000",
       "minecraft:swamp": "2025-05-09 23:42:11 +0000",
       "minecraft:forest": "2025-05-08 04:39:06 +0000",
+      "minecraft:lush_caves": "2025-05-10 01:03:28 +0000",
       "minecraft:windswept_forest": "2025-05-09 23:40:06 +0000",
       "minecraft:plains": "2025-05-09 23:14:59 +0000"
     },
@@ -4025,6 +4026,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
+    "criteria": {
+      "has_anvil": "2025-05-10 00:58:15 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
     "criteria": {
       "has_gold_block": "2025-05-10 00:38:29 +0000"
@@ -4691,6 +4698,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/enchantments/enchantments/heavy": {
+    "criteria": {
+      "has_anvil": "2025-05-10 00:58:15 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/mutton": {
     "criteria": {
       "has_mutton": "2025-05-09 23:17:10 +0000"
@@ -4754,6 +4767,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-10 00:05:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-05-10 00:58:24 +0000"
     },
     "done": true
   },
@@ -5444,6 +5463,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-10 00:06:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-10 00:55:13 +0000"
     },
     "done": true
   },
