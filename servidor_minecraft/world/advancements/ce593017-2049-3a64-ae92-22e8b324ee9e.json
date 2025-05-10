@@ -3892,6 +3892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-05-09 23:51:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-09 23:17:10 +0000"
@@ -3943,6 +3949,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-05-09 23:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-09 23:53:56 +0000"
     },
     "done": true
   },
@@ -4084,6 +4096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-09 23:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-09 23:17:22 +0000"
@@ -4099,6 +4117,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-05-09 23:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-09 23:53:56 +0000"
     },
     "done": true
   },
@@ -4168,6 +4192,12 @@
     },
     "done": true
   },
+  "ancient_elements:drillmaster_extraordinaire": {
+    "criteria": {
+      "drillmaster_extraordinaire": "2025-05-09 23:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-09 23:20:08 +0000"
@@ -4177,6 +4207,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-05-09 23:20:08 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/redstone_ore": {
+    "criteria": {
+      "has_redstone_block": "2025-05-09 23:54:10 +0000"
     },
     "done": true
   },
@@ -4348,6 +4384,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/diffusion/diffusion/deepslate_redstone_ore": {
+    "criteria": {
+      "has_redstone_block": "2025-05-09 23:54:10 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:crystal_pioneer": {
     "criteria": {
       "crystal_pioneer": "2025-05-09 23:24:06 +0000"
@@ -4387,6 +4429,12 @@
   "ancient_elements:cosmic_discoverer": {
     "criteria": {
       "cosmic_discoverer": "2025-05-09 23:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-09 23:54:10 +0000"
     },
     "done": true
   },
