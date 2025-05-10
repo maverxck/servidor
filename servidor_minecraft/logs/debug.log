@@ -8879,3 +8879,8 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [10May2025 06:58:37.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maverxck23> i
 [10May2025 06:59:25.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 06:59:25.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 07:04:25.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 07:04:25.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 07:06:40.650] [Server thread/DEBUG] [plus.dragons.createenchantmentindustry.EnchantmentIndustry/]: Failed to load EnchHooks from Apotheosis, fall back to vanilla method...
+[10May2025 07:09:25.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 07:09:25.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
