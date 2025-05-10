@@ -4769,6 +4769,18 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-10 18:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-10 18:30:26 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/craft/wind_capture_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-05-10 18:24:24 +0000"
