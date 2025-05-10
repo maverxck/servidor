@@ -6828,6 +6828,66 @@
     },
     "done": true
   },
+  "ancient_elements:abyssal_conqueror": {
+    "criteria": {
+      "abyssal_conqueror": "2025-05-10 04:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-10 04:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-10 04:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-10 04:17:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-05-10 04:21:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_6": "2025-05-10 04:21:23 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-10 04:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-10 04:26:17 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_cod": {
+    "criteria": {
+      "has_cooked_cod": "2025-05-10 04:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-05-10 04:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-10 04:35:49 +0000"
@@ -6840,21 +6900,9 @@
     },
     "done": true
   },
-  "ancient_elements:abyssal_conqueror": {
-    "criteria": {
-      "abyssal_conqueror": "2025-05-10 04:12:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-10 04:35:49 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:big_boy": {
-    "criteria": {
-      "big_boy_0": "2025-05-10 04:50:14 +0000"
     },
     "done": true
   },
@@ -6876,33 +6924,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-05-10 04:51:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2025-05-10 04:26:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-10 04:35:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-05-10 04:17:01 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-05-10 04:25:37 +0000"
     },
     "done": true
   },
@@ -6918,12 +6942,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:grave_ravager": {
-    "criteria": {
-      "grave_ravager_0": "2025-05-10 04:21:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-05-10 04:35:49 +0000"
@@ -6935,24 +6953,6 @@
       "has_glass_panes_colorless": "2025-05-10 04:35:49 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-05-10 04:17:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-05-10 04:17:01 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bury_them_all": {
-    "criteria": {
-      "bury_them_all_6": "2025-05-10 04:21:23 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -6975,12 +6975,6 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-10 04:35:49 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/cooked_cod": {
-    "criteria": {
-      "has_cooked_cod": "2025-05-10 04:26:18 +0000"
     },
     "done": true
   },
@@ -7014,9 +7008,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "born_in_chaos_v1:big_boy": {
     "criteria": {
-      "has_prismarine_crystals": "2025-05-10 04:26:17 +0000"
+      "big_boy_0": "2025-05-10 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 04:51:00 +0000"
     },
     "done": true
   },

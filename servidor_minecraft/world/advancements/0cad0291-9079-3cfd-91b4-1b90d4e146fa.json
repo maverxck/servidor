@@ -58,7 +58,8 @@
       "minecraft:taiga": "2025-05-08 04:41:36 +0000",
       "minecraft:river": "2025-05-08 04:44:19 +0000",
       "minecraft:dripstone_caves": "2025-05-08 05:43:50 +0000",
-      "minecraft:forest": "2025-05-08 05:01:00 +0000"
+      "minecraft:forest": "2025-05-08 05:01:00 +0000",
+      "minecraft:plains": "2025-05-10 05:08:53 +0000"
     },
     "done": false
   },
@@ -2804,21 +2805,39 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-05-10 04:38:56 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/burnt/burnt/cooked_beef": {
     "criteria": {
       "has_cooked_beef": "2025-05-10 04:36:57 +0000"
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-10 04:38:56 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/cooked_porkchop": {
     "criteria": {
       "has_cooked_porkchop": "2025-05-10 04:40:43 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
+    "criteria": {
+      "has_anvil": "2025-05-10 05:08:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy": {
+    "criteria": {
+      "has_anvil": "2025-05-10 05:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-10 05:07:34 +0000"
     },
     "done": true
   },
