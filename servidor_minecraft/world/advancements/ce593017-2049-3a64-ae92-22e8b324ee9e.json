@@ -9981,6 +9981,12 @@
     },
     "done": true
   },
+  "ancient_elements:cover_me_with_endgame_armor": {
+    "criteria": {
+      "cover_me_with_endgame_armor": "2025-05-11 07:03:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2025-05-11 06:49:02 +0000"
