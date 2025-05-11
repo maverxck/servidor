@@ -872,3 +872,9 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [11May2025 06:43:06.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maverxck23[/127.50.150.81:48949] logged in with entity id 18047 at (4839.205571287753, 191.8641161646897, -3720.5702304317792)
 [11May2025 06:43:06.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 joined the game
 [11May2025 07:03:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has completed the challenge [Endgame Protection!]
+[11May2025 07:20:25.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/28173, l='ServerLevel[world]', x=328.57, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
+[11May2025 07:20:56.323] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/28232, l='ServerLevel[world]', x=328.52, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
+[11May2025 07:21:15.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/28308, l='ServerLevel[world]', x=328.41, y=62.00, z=461.65] died: Forge Sentry was slain by Maverxck23
+[11May2025 07:22:23.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/28367, l='ServerLevel[world]', x=328.56, y=62.01, z=461.65] died: Forge Sentry was slain by Maverxck23
+[11May2025 07:23:09.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Withering Heights]
+[11May2025 07:23:37.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Strong Undead]
