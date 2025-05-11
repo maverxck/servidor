@@ -55,25 +55,38 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-11 03:58:39 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-10 23:04:02 +0000",
       "minecraft:taiga": "2025-05-08 04:34:42 +0000",
       "minecraft:deep_ocean": "2025-05-10 21:38:08 +0000",
+      "minecraft:frozen_river": "2025-05-11 03:56:57 +0000",
       "minecraft:sunflower_plains": "2025-05-10 21:27:50 +0000",
       "minecraft:birch_forest": "2025-05-09 23:42:47 +0000",
+      "minecraft:windswept_hills": "2025-05-11 02:47:31 +0000",
       "minecraft:wooded_badlands": "2025-05-10 22:00:56 +0000",
       "minecraft:badlands": "2025-05-10 22:06:42 +0000",
       "minecraft:beach": "2025-05-10 04:02:00 +0000",
+      "minecraft:dark_forest": "2025-05-11 03:20:52 +0000",
       "minecraft:sparse_jungle": "2025-05-10 21:56:23 +0000",
       "minecraft:river": "2025-05-08 04:42:09 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-11 03:29:22 +0000",
+      "minecraft:snowy_plains": "2025-05-11 03:58:14 +0000",
+      "minecraft:stony_shore": "2025-05-11 03:58:13 +0000",
       "minecraft:dripstone_caves": "2025-05-08 05:49:09 +0000",
+      "minecraft:snowy_taiga": "2025-05-11 03:56:50 +0000",
       "minecraft:swamp": "2025-05-09 23:42:11 +0000",
+      "minecraft:grove": "2025-05-11 03:54:10 +0000",
+      "minecraft:jagged_peaks": "2025-05-11 04:16:15 +0000",
       "minecraft:cold_ocean": "2025-05-10 02:47:08 +0000",
       "minecraft:forest": "2025-05-08 04:39:06 +0000",
       "minecraft:lush_caves": "2025-05-10 01:03:28 +0000",
       "minecraft:desert": "2025-05-10 21:59:54 +0000",
       "minecraft:windswept_forest": "2025-05-09 23:40:06 +0000",
       "minecraft:ocean": "2025-05-10 04:24:21 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-11 04:18:11 +0000",
       "minecraft:flower_forest": "2025-05-10 21:25:07 +0000",
+      "minecraft:frozen_peaks": "2025-05-11 03:54:23 +0000",
+      "minecraft:meadow": "2025-05-11 00:23:35 +0000",
       "minecraft:savanna": "2025-05-10 19:29:17 +0000",
       "minecraft:plains": "2025-05-09 23:14:59 +0000"
     },
@@ -2270,6 +2283,7 @@
       "golden_apple": "2025-05-10 22:03:01 +0000",
       "melon_slice": "2025-05-10 21:50:41 +0000",
       "golden_carrot": "2025-05-10 20:15:10 +0000",
+      "enchanted_golden_apple": "2025-05-11 05:40:29 +0000",
       "rabbit_stew": "2025-05-10 18:46:24 +0000",
       "cooked_salmon": "2025-05-10 02:38:37 +0000"
     },
@@ -2285,6 +2299,7 @@
     "criteria": {
       "minecraft:blaze": "2025-05-10 01:13:46 +0000",
       "minecraft:skeleton": "2025-05-08 05:05:55 +0000",
+      "minecraft:ghast": "2025-05-11 01:39:13 +0000",
       "minecraft:hoglin": "2025-05-10 01:35:06 +0000",
       "minecraft:magma_cube": "2025-05-10 01:14:30 +0000",
       "minecraft:spider": "2025-05-08 05:47:21 +0000",
@@ -2296,9 +2311,12 @@
       "minecraft:witch": "2025-05-10 06:31:41 +0000",
       "minecraft:wither_skeleton": "2025-05-10 01:19:04 +0000",
       "minecraft:husk": "2025-05-10 02:37:34 +0000",
+      "minecraft:ender_dragon": "2025-05-11 04:42:34 +0000",
+      "minecraft:shulker": "2025-05-11 04:49:18 +0000",
       "minecraft:piglin": "2025-05-10 20:00:33 +0000",
       "minecraft:enderman": "2025-05-10 23:26:39 +0000",
       "minecraft:stray": "2025-05-10 21:19:59 +0000",
+      "minecraft:silverfish": "2025-05-11 04:28:29 +0000",
       "minecraft:zombie": "2025-05-08 05:49:02 +0000",
       "minecraft:drowned": "2025-05-09 23:48:29 +0000",
       "minecraft:zombie_villager": "2025-05-09 23:26:04 +0000"
@@ -2793,7 +2811,9 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-05-08 05:54:20 +0000"
+      "in_better_zombie_dungeon": "2025-05-11 02:48:10 +0000",
+      "in_better_monster_room": "2025-05-08 05:54:20 +0000",
+      "in_better_spider_dungeon": "2025-05-11 03:23:21 +0000"
     },
     "done": false
   },
@@ -8271,6 +8291,7 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_1": "2025-05-11 03:29:57 +0000",
       "charm_collector_4": "2025-05-10 18:18:29 +0000",
       "charm_collector_3": "2025-05-10 18:14:06 +0000"
     },
@@ -8467,9 +8488,10 @@
       "minecraft:crimson_forest": "2025-05-10 20:00:50 +0000",
       "minecraft:nether_wastes": "2025-05-10 20:00:09 +0000",
       "minecraft:soul_sand_valley": "2025-05-10 20:03:42 +0000",
-      "minecraft:basalt_deltas": "2025-05-10 23:30:51 +0000"
+      "minecraft:basalt_deltas": "2025-05-10 23:30:51 +0000",
+      "minecraft:warped_forest": "2025-05-11 01:58:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -9230,6 +9252,600 @@
   "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-10 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:skin_made_of_fire": {
+    "criteria": {
+      "skin_made_of_fire": "2025-05-11 00:05:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-11 00:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-11 00:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-11 00:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-11 00:50:18 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:gettingan_upgrade_2": {
+    "criteria": {
+      "gettingan_upgrade_2": "2025-05-11 01:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-11 01:27:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-11 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-11 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-11 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-05-11 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-11 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-05-11 01:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-11 02:06:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-05-11 02:06:49 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:hammer_time": {
+    "criteria": {
+      "hammer_time": "2025-05-11 02:18:53 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:it_burns": {
+    "criteria": {
+      "it_burns": "2025-05-11 02:39:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-05-11 02:41:58 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_1": "2025-05-11 02:41:58 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-05-11 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-05-11 02:42:19 +0000",
+      "trickor_treat_2": "2025-05-11 02:42:19 +0000",
+      "trickor_treat_3": "2025-05-11 02:42:19 +0000",
+      "trickor_treat_4": "2025-05-11 02:42:19 +0000",
+      "trickor_treat_5": "2025-05-11 02:42:19 +0000",
+      "trickor_treat_6": "2025-05-11 02:42:19 +0000",
+      "trickor_treat_7": "2025-05-11 02:42:19 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-11 02:48:10 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:fetchmetheirsouls": {
+    "criteria": {
+      "fetchmetheirsouls": "2025-05-11 02:54:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-05-11 03:15:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-05-11 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-11 03:23:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-05-11 03:25:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-11 03:27:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-05-11 03:27:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-05-11 03:27:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-05-11 03:27:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-05-11 03:27:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-05-11 03:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-11 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/soul_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-11 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-11 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/strong_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-11 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-11 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/black_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-11 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-11 03:50:05 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/ender_mask": {
+    "criteria": {
+      "has_ender_eye": "2025-05-11 03:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-11 03:50:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-05-11 04:02:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-05-11 04:02:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-11 04:04:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-11 04:04:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-11 04:04:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-11 04:04:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-05-11 04:04:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-05-11 04:04:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-05-11 04:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-05-11 04:15:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed_by": "2025-05-11 04:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-05-11 04:23:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strange_mount": {
+    "criteria": {
+      "has_skeleton_receptacle": "2025-05-11 04:23:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 04:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-11 04:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-11 04:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-11 04:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-11 04:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-11 04:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-11 04:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-11 04:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-11 04:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-05-11 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-11 04:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-11 04:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-05-11 04:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-11 04:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-11 04:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-05-11 04:44:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-05-11 04:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-11 04:46:24 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:absolute_zero": {
+    "criteria": {
+      "absolute_zero": "2025-05-11 04:47:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2025-05-11 04:50:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-05-11 04:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-11 04:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-05-11 04:50:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-05-11 05:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-11 05:22:20 +0000"
     },
     "done": true
   },
