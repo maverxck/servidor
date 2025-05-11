@@ -865,3 +865,9 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [11May2025 06:19:55.260] [Worker-Main-38/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [250, -78], pos: BlockPos{x=4015, y=101, z=-1237}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / ancient_elements:end_spire_feature]
 [11May2025 06:19:55.260] [Worker-Main-38/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [250, -78], pos: BlockPos{x=4015, y=101, z=-1236}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / ancient_elements:end_spire_feature]
 [11May2025 06:34:14.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [The Imperial March]
+[11May2025 06:42:55.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maverxck23 was kicked for floating too long!
+[11May2025 06:42:55.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maverxck23 lost connection: Flying is not enabled on this server
+[11May2025 06:42:55.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 left the game
+[11May2025 06:42:56.057] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11May2025 06:43:06.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maverxck23[/127.50.150.81:48949] logged in with entity id 18047 at (4839.205571287753, 191.8641161646897, -3720.5702304317792)
+[11May2025 06:43:06.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 joined the game
