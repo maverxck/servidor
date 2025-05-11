@@ -8734,3 +8734,8 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [11May2025 06:19:55.260] [Worker-Main-38/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [250, -78], pos: BlockPos{x=4015, y=101, z=-1236}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / ancient_elements:end_spire_feature]
 [11May2025 06:24:54.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11May2025 06:24:54.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 06:29:54.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 06:29:54.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 06:34:14.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [The Imperial March]
+[11May2025 06:34:54.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 06:34:54.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

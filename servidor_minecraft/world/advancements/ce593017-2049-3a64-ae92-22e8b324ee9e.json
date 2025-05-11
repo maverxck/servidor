@@ -9867,6 +9867,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-05-11 06:34:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2025-05-11 06:07:16 +0000"
