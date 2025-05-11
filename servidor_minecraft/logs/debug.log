@@ -8047,3 +8047,23 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [11May2025 05:46:10.481] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
 [11May2025 05:49:54.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11May2025 05:49:54.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 05:54:54.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 05:54:54.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 05:55:43.136] [Server thread/DEBUG] [plus.dragons.createenchantmentindustry.EnchantmentIndustry/]: Failed to load EnchHooks from Apotheosis, fall back to vanilla method...
+[11May2025 05:59:54.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 05:59:54.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 06:03:19.950] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 17 on channel sophisticatedcore:channel
+[11May2025 06:04:54.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 06:04:54.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 06:05:32.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[11May2025 06:07:03.126] [Worker-Main-15/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11May2025 06:07:03.126] [Worker-Main-15/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11May2025 06:07:03.127] [Worker-Main-15/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11May2025 06:07:03.134] [Worker-Main-15/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[11May2025 06:07:04.220] [Worker-Main-39/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[11May2025 06:07:04.224] [Worker-Main-39/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[11May2025 06:09:54.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 06:09:54.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 06:14:04.252] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[11May2025 06:14:54.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 06:14:54.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

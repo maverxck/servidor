@@ -199,3 +199,5 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [11May2025 05:45:19.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maverxck23[/127.50.150.81:55875] logged in with entity id 771 at (334.60317608425856, 79.0, 513.3771711392799)
 [11May2025 05:45:19.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 joined the game
 [11May2025 05:45:22.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3055ms or 61 ticks behind
+[11May2025 06:03:19.950] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 17 on channel sophisticatedcore:channel
+[11May2025 06:05:32.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
